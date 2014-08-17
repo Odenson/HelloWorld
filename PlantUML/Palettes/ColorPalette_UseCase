@@ -1,0 +1,31 @@
+skinparam defualtFontName Courier
+
+skinparam usecase{
+	BackgroundColor #D0DCF2
+	BorderColor #182B52
+	FontColor #182B52
+	
+	Fontsize 15
+	FontStyle bold
+
+	BackgroundColor<< Domain >> #A6C686
+	FontColor<< Domain >> #354822
+	BorderColor<< Domain >> #354822
+
+	BackgroundColor<<Main>> #FFC68B
+	FontColor<<Main>> #9E5100
+	BorderColor<<Main>> #9E5100
+
+	BackgroundColor<< Systems >> #F37099
+	FontColor<< Systems >> #740A2C
+	BorderColor<< Systems >> #740A2C
+	
+	BackgroundColor<< Engine >> #DDCEEA
+	FontColor<< Engine >> #291836
+	BorderColor<< Engine >> #291836
+
+	ActorBackgroundColor #FFC68B
+	ActorBorderColor #9E5100
+	ActorFontColor #9E5100
+	ActorFontStyle bold
+}

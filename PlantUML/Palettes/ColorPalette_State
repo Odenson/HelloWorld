@@ -1,0 +1,18 @@
+
+skinparam defualtFontName Courier
+
+skinparam state {
+	
+	FontName Courier
+
+	BackgroundColor #E1ECD7
+	BorderColor #354822
+
+	ArrowColor #354822
+	ArrowFontColor black
+}
+
+skinparam StateBackgroundColor<<new>> #FBCFDD
+skinparam StateBorderColor<<new>> #AD0F41
+
+

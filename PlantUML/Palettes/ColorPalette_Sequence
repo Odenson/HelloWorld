@@ -1,0 +1,25 @@
+@startuml
+
+skinparam defualtFontName Courier
+
+skinparam sequence {
+	ParticipantBackgroundColor #D0DCF2
+	ParticipantBorderColor #182B52
+	ParticipantFontColor #182B52
+	ParticipantFontStyle bold
+
+	ArrowColor #6B9144
+	ArrowFontColor #354822
+	ArrowFontStyle italic
+	
+	LifeLineBorderColor #506D33
+	LifeLineBackgroundColor #E1ECD7
+	
+	ActorBackgroundColor #FFC68B
+	ActorBorderColor #9E5100
+	ActorFontColor #9E5100
+	ActorFontStyle bold
+	
+}
+
+@enduml

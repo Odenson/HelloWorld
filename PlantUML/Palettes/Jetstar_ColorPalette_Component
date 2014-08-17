@@ -1,0 +1,24 @@
+
+skinparam PackageBorderColor #FF7920
+skinparam PackageBackgroundColor #FEEDD9
+
+skinparam defualtFontName Courier
+
+skinparam shadowing false
+
+skinparam component {
+
+    ArrowColor                  #FF7920
+    ArrowFontColor				black
+    
+    BorderColor                 #FF7920
+    BackgroundColor             White
+    
+    FontName                    Calibri
+    FontSize                    14
+    
+    InterfaceBorderColor        #FF7920
+    InterfaceBackgroundColor    White
+}
+
+

@@ -1,0 +1,31 @@
+ 
+skinparam packageBackgroundColor #D0DCF2
+skinparam packageBorderColor #182B52
+ 
+skinparam classArrowColor #182B52
+ 
+skinparam classBackgroundColor #E1ECD7
+skinparam classBorderColor #354822
+ 
+skinparam classBackgroundColor<<MetaData>> #DDCEEA
+skinparam classBorderColor<<MetaData>> #3E2352
+ 
+skinparam classBackgroundColor<<Service>> #FBCFDD
+skinparam classBorderColor<<Service>> #AD0F41
+
+skinparam classBackgroundColor<<UserInputs>> #FFC68B
+skinparam classBorderColor<<UserInputs>> #9E5100
+
+skinparam classBackgroundColor<<Interface>> #DDCEEA
+skinparam classBorderColor<<Interface>> #3E2352
+
+skinparam defaultFontName Courier
+
+' Keywords can be used in atomic-attribute formatting (For format reference only - Unreliable, Do not use these constants)..
+!define ATTRINPUT <font color="black"><b><u>input</u>
+!define ATTRPASSED <font color="red"><b><i>
+!define ATTRCOMPOSITEVAL <font color="black"><b><i>
+!define ATTRATOMICVAL <font color="black">
+!define ATTRINHERIT <font color="purple"><b><u>inherited</u></font>
+!define ATTRMULTIINHERIT <font color="green"><b><u>MultiInherited</u></font>
+!define ATTRPREPOPULATED <font color="DarkCyan"><b><u>Prepopulated/Input</u></font>

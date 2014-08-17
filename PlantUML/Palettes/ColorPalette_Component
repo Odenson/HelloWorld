@@ -1,0 +1,22 @@
+
+skinparam PackageBackgroundColor #D0DCF2
+skinparam PackageBorderColor #182B52
+
+skinparam defualtFontName Courier
+
+skinparam component {
+	
+	FontName Courier
+
+	InterfaceBackgroundColor #E1ECD7
+	InterfaceBorderColor #354822
+
+	BackgroundColor #E1ECD7
+	BorderColor #354822
+
+	ArrowColor #354822
+	ArrowFontColor black
+}
+
+
+

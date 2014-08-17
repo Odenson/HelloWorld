@@ -1,0 +1,19 @@
+@startuml
+
+skinparam shadowing false
+skinparam sequence {
+    ArrowColor                  #FF7920
+    ActorBorderColor            #FF7920
+    ActorBackgroundColor        White
+    ParticipantBorderColor      #FF7920
+    ParticipantBackgroundColor  #FF7920
+    ParticipantFontColor        White
+    ParticipantFontSize         16
+    ParticipantFontName         Calibri
+    ParticipantFontStyle        bold
+    LifeLineBorderColor         DarkOrange
+}
+
+hide footbox
+
+@enduml
